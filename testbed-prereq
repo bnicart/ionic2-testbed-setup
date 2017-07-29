@@ -1,0 +1,2 @@
+npm install -g karma-cli
+npm install angular-cli codecov jasmine-core jasmine-spec-reporter karma karma-chrome-launcher karma-jasmine karma-mocha-reporter karma-remap-istanbul ts-node tslint tslint-eslint-rules @types/jasmine @types/node --save-dev
